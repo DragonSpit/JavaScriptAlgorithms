@@ -2,7 +2,7 @@
 
 High performance JavaScript algorithms:
 
-- Radix Sort (LSD) for sorting arrays of unsigned integers. Much faster than JavaScript built-in sort and stable, see (https://wordpress.com/post/duvanenko.tech.blog/261).
+- Radix Sort (LSD) for sorting arrays of unsigned integers. Much faster than JavaScript built-in sort and stable, see (https://duvanenko.tech.blog/2017/06/15/faster-sorting-in-javascript/).
 - Radix Sort (LSD) for sorting arrays of objects by unsigned integers.
 
 
